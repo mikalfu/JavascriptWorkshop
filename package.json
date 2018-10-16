@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/mikalfu/JavascriptWorkshop#readme",
   "dependencies": {
-    "express": "^4.16.4"
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
   }
 }
