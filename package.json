@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/mikalfu/JavascriptWorkshop/issues"
   },
-  "homepage": "https://github.com/mikalfu/JavascriptWorkshop#readme"
+  "homepage": "https://github.com/mikalfu/JavascriptWorkshop#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
 }
