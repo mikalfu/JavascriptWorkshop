@@ -1,10 +1,9 @@
 const express = require('express');
-const TvShow = require('./TvShow');
-const TvShow = require('./TvShow');
+const TvShow = require('./TVShows');
 
 const tvShowRouter = express.Router();
 
-//const tvShows = [];
+//const tvShows = [];s
 
 const tvShows = [new TvShow(1, 'Mr.Robot', 'Drama'),
                 new TvShow(2, 'Black Mirror', 'Drama')
