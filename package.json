@@ -1,0 +1,22 @@
+{
+  "name": "workshop",
+  "version": "1.0.0",
+  "description": "Javascript and REST workshop",
+  "main": "server.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mikalfu/JavascriptWorkshop.git"
+  },
+  "keywords": [
+    "rest"
+  ],
+  "author": "Mikal",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mikalfu/JavascriptWorkshop/issues"
+  },
+  "homepage": "https://github.com/mikalfu/JavascriptWorkshop#readme"
+}
